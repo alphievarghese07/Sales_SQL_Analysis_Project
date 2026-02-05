@@ -13,8 +13,8 @@ Download from Kaggle:
 
 - [orders.csv](orders.csv)
 - [order_details.csv](order_details.csv)
-- [pizzas.csv](data/pizzas.csv)
-- [pizza_types.csv](data/pizza_types.csv)
+- [pizzas.csv](pizzas.csv)
+- [pizza_types.csv](pizza_type1.csv)
 ---
 
 ## 🛠 Tech Stack
